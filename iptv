@@ -115,3 +115,15 @@ http://otv.ftpbd.net/streams/125/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WiU5f4N.png", group-title="English",  MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@IPTVSoltion
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/bUkI61Y.jpg ", group-title="Kids", 3abnkids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/kMUpeIA.jpg ", group-title="Kids", Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/5w4pHCw.png ", group-title="Kids", Cartoon Network
+http://otv.ftpbd.net/streams/123/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/Np8QMQr.jpg ", group-title="Kids", Disney HD
+http://otv.ftpbd.net/streams/122/index.m3u8
