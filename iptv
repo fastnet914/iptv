@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh", GTV
+http://10.16.100.203:8082/bangla/gtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 
@@ -19,9 +22,6 @@ http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla", Colors Bangla
-http://10.16.100.205/hls/colorsbd480.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", Bangla TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 
@@ -30,6 +30,22 @@ http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesh", Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh", Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Indian Bangla", Colors Bangla
+http://10.16.100.205/hls/colorsbd480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvgm1jB.png" group-title="Indian Bangla", Sony Aath
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olhYIM7.png" group-title="Indian Bangla", Jalsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
@@ -70,26 +86,32 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRiYsvJ.png" group-title="Music" Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV%E2%84%A2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", (ONLINE) Madani Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", Madani Channel
 http://10.16.100.207:8082/sports/sunnahtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", (ONLINE) Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", Sony Ten 1
 http://10.16.100.207:8082/sports/ten1_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports", (ONLINE) Star Sports 2
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports", Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports", (ONLINE) Star Sports Select 1
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports", Star Sports Select 1
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports", (ONLINE) Star Sports Select 2
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports", Star Sports Select 2
 http://10.16.100.207:8082/sports/ssselect2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47g1op5.png" group-title="English", MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesh",Boishakhi TV
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZIukWq.jpg", group-title="English", Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo=" blob:https://imgur.com/50d0c039-8df7-485e-9368-63e8aa5749de", group-title="English", Sony Movies Action
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-logo=" https://imgur.com/a/0bZN7MS", group-title="English", Star Movies
+http://otv.ftpbd.net/streams/125/index.m3u8
+
+#EXTINF:-1 tvg-logo=" blob:https://imgur.com/3629c002-70b3-44ae-a9dd-b3f2c0f95da0", group-title="English",  MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@IPTVSoltion
