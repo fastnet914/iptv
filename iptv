@@ -40,13 +40,13 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207" group-title="Hindi", Zee Action
 http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/%26TV.jpg/revision/latest?cb=20161205163128" group-title="Hindi", &Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i6BTtXf.jpg" group-title="Hindi", &Tv
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest/scale-to-width-down/340?cb=20191222183430" group-title="Hindi", BFlix Movie
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV%E2%84%A2
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Wow_Cinema.jpg/revision/latest/scale-to-width-down/340?cb=20191223072059" group-title="Hindi", Wow Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94z0Nz1.jpg" group-title="Hindi", Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?Live-TV%E2%84%A2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fALpReZ.jpg" group-title="Hindi", Maha Movie
