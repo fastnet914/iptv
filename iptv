@@ -86,6 +86,9 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRiYsvJ.png" group-title="Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV%E2%84%A2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1CvJaq.jpg" group-title="Music", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", Madani Channel
 http://10.16.100.207:8082/sports/sunnahtv.m3u8
 
@@ -100,6 +103,24 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports", Star Sports Select 2
 http://10.16.100.207:8082/sports/ssselect2.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/rGEaX5I.png " group-title="Sports", Abu Dhabi Sports 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/21YHMCi.jpg " group-title="Sports", Abu Dhabi Sports 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/fBNkiDm.jpg " group-title="Sports", Abu Dhabi Sports 3 HD
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/jui3Wzi.png " group-title="Sports", beIN Sports Xtra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/3DMwSBJ.png " group-title="Sports", Sony Six
+http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/TSbHhJl.png " group-title="Sports", T Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47g1op5.png" group-title="English", MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
