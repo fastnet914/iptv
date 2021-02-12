@@ -1,41 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", (ONLINE) Asian TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh", (ONLINE) Deepto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh", Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh", (ONLINE) Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh", Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh", (ONLINE) Mohona TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh", Mohona TV
 http://10.16.100.205/hls/mohona_tv_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh", (ONLINE) NTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh", NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", (ONLINE) RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla", (ONLINE) Colors Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla", Colors Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", (ONLINE) Bangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", Bangla TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh", (ONLINE) Bangla Vision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh", Bangla Vision
 http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Bijoy TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/SangeetBangla.png" group-title="Music", (ONLINE) Sangeet Bangla
-http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music", (ONLINE) MTunes
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Zee_Anmol_Cinema.jpg/revision/latest/scale-to-width-down/340?cb=20171105144732" group-title="Hindi", Zee Anmol Cinema
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207" group-title="Hindi", Zee Action
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music", MTunes
 http://10.16.100.207:8082/sports/mtuness.m3u8
+
+#EXTINF:-1 tvg-logo="blob:https://imgur.com/3170233f-4550-4e0d-8b99-8233ed538a84" group-title="Music", MTV Spankin
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", (ONLINE) Madani Channel
 http://10.16.100.207:8082/sports/sunnahtv.m3u8
