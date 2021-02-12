@@ -148,3 +148,15 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/Np8QMQr.jpg ", group-title="Kids", Disney HD
 http://otv.ftpbd.net/streams/122/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIQxcun.png" group-title="Infotainment", DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0JUYKr.jpg" group-title="Infotainment", NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCpU328.png" group-title="Infotainment", Nat Geo
+http://otv.ftpbd.net/streams/110/index.m3u8
