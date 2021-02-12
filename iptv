@@ -71,19 +71,19 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4lINUV.jpg" group-title="Hindi", Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV%E2%84%A2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music", MTunes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hZ3s04Q.png" group-title="Music", MTunes
 http://10.16.100.207:8082/sports/mtuness.m3u8
 
-#EXTINF:-1 tvg-logo="blob:https://imgur.com/3170233f-4550-4e0d-8b99-8233ed538a84" group-title="Music", MTV Spankin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVQySZm.jpg" group-title="Music", MTV Spankin
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
-#EXTINF:-1 tvg-logo="blob:https://imgur.com/027d230e-c618-486f-9d20-148e21d48e1b" group-title="Music", 9xm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTYCrJv.jpg" group-title="Music", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
 
-#EXTINF:-1 tvg-logo="blob:https://imgur.com/1676dca5-6d01-48c6-99bd-8a8e80d3f50d" group-title="Music", Wow Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDBRA4L.png" group-title="Music", Wow Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRiYsvJ.png" group-title="Music" Music India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRiYsvJ.png" group-title="Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?Live-TV%E2%84%A2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", Madani Channel
