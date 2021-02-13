@@ -51,6 +51,15 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7noubv.png" group-title="Bangladesh", DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 
+#EXTINF:-1 tvg=logo="https://i.imgur.com/K1PlowB.jpg" group-title="Bangladesh", Nagorik TV
+http://tv.neobd.net:1935/live/tv1/chunklist_w216808600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZCpdbP.png" group-title="Bangladesh", Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+
+#EXTINF:- tvg-logo="https://i.imgur.com/lQtT5Ve.png" group-title="Bangladesh", ITV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Indian Bangla", Colors Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
 
