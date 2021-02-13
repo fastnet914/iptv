@@ -18,7 +18,6 @@ http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh", NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 
@@ -37,19 +36,19 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Bangla Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZJQ90a.jpg" group-title="Bangladesh", Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh", KTV Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkWxlMm.jpg" group-title="Bangladesh", KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh", Nandan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSM5YAz.jpg" group-title="Bangladesh", Nandan
 http://nandansyst.com/hls/nandan.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eD9BXCL.jpg" group-title="Bangladesh", ATN Bangla
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh", DBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7noubv.png" group-title="Bangladesh", DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Indian Bangla", Colors Bangla
@@ -88,13 +87,13 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?Live-TV%E
 #EXTINF:-1 tvg-logo="" group-title="Hindi", ABP Asmita
 http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi",  ACV
+#EXTINF:-1 tvg-logo="" group-title="Hindi", ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi",  ACV News
+#EXTINF:-1 tvg-logo="" group-title="Hindi", ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi",  Zee Bioskop
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZ3s04Q.png" group-title="Music", MTunes
@@ -132,9 +131,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music", California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", Madani Channel
-http://10.16.100.207:8082/sports/sunnahtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", Sony Ten 1
 http://10.16.100.207:8082/sports/ten1_720.m3u8
