@@ -165,10 +165,10 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/jui3Wzi.png " group-title="Sports", beIN Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/3DMwSBJ.png " group-title="Sports", Sony Six
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/3DMwSBJ.png" group-title="Sports", Sony Six
 http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/TSbHhJl.png " group-title="Sports", T Sports
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/TSbHhJl.png" group-title="Sports", T Sports
 http://10.16.100.207:8082/sports/sportst.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", Dubai Racing
@@ -186,64 +186,64 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47g1op5.png" group-title="English", MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZIukWq.jpg", group-title="English", Celestial Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZIukWq.jpg" group-title="English", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srDdTAH.png", group-title="English", Sony Movies Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srDdTAH.png" group-title="English", Sony Movies Action
 http://51.52.156.22:8888/http/009
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LxxN62Y.png", group-title="English", Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxxN62Y.png" group-title="English", Star Movies
 http://otv.ftpbd.net/streams/125/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WiU5f4N.png", group-title="English",  MBC 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WiU5f4N.png" group-title="English",  MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@IPTVSoltion
 
-#EXTINF:-1 tvg-logo="", group-title="English", American Classic Network
+#EXTINF:-1 tvg-logo="" group-title="English", American Classic Network
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", American Horrors
+#EXTINF:-1 tvg-logo="" group-title="English", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", Discovery Max Movie
+#EXTINF:-1 tvg-logo="" group-title="English", Discovery Max Movie
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", DMax Movie
+#EXTINF:-1 tvg-logo="" group-title="English", DMax Movie
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", Dust (Sci-Fi)
+#EXTINF:-1 tvg-logo="" group-title="English", Dust (Sci-Fi)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", Fashion TV
+#EXTINF:-1 tvg-logo="" group-title="English", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", Fox Life
+#EXTINF:-1 tvg-logo="" group-title="English", Fox Life
 https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", HBO
+#EXTINF:-1 tvg-logo="" group-title="English", HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="English", Ten
+#EXTINF:-1 tvg-logo="" group-title="English", Ten
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/bUkI61Y.jpg ", group-title="Kids", 3abnkids
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/bUkI61Y.jpg" group-title="Kids", 3abnkids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/kMUpeIA.jpg ", group-title="Kids", Akaram Kids
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/kMUpeIA.jpg" group-title="Kids", Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/5w4pHCw.png ", group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/5w4pHCw.png" group-title="Kids", Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/Np8QMQr.jpg ", group-title="Kids", Disney HD
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/Np8QMQr.jpg" group-title="Kids", Disney HD
 http://otv.ftpbd.net/streams/122/index.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Kids", Aniplus
+#EXTINF:-1 tvg-logo="" group-title="Kids", Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Kids", Shalom TV
+#EXTINF:-1 tvg-logo="" group-title="Kids", Shalom TV
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Kids", Spacetoon
+#EXTINF:-1 tvg-logo="" group-title="Kids", Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
